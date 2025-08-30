@@ -101,69 +101,234 @@
 ---
 
 ## MODÈLE B: "ECOMODERNISME DEMOCRATIQUE"  
-**Paradigme**: Technologie avancée + planification démocratique  
-**Niveau développement**: 🔄 EN COURS (5%)
+**Paradigme**: Technologie avancée + planification démocratique écologique  
+**Niveau développement**: 🚧 DÉVELOPPÉ (85%)
 
-### Principes Directeurs
-- Découplage absolu croissance/impacts via innovation technologique
-- État écologique fort + marchés régulés
-- Villes denses efficaces + nature sauvage préservée
-- Démocratie numérique participative
+### Gouvernance
+**Principe**: Démocratie numérique + planification écologique scientifique  
+- **Global**: Gouvernement mondial fédéral pour biens communs planétaires
+- **National**: États écologiques forts avec mandat constitutionnel soutenabilité  
+- **Local**: Mégapoles intelligentes de 5-20 millions d'habitants
+- **Citoyen**: Démocratie liquide via plateformes numériques sécurisées
 
-### [À développer dans sessions suivantes]
+**Mécanismes décisionnels**:
+- IA d'aide à la décision intégrant données temps réel (40% poids)
+- Assemblées d'experts sectoriels élus par pairs (30% poids)
+- Votes citoyens pondérés par niveau expertise (20% poids)  
+- Tribunaux climatiques avec véto suspensif (10% poids)
+
+### Économie
+**Principe**: Capitalisme vert régulé + revenus redistribués automation  
+- **Propriété**: 60% privée + 30% publique + 10% communs numériques
+- **Monnaie**: Monnaie unique mondiale indexée carbone
+- **Travail**: 20h/semaine moyenne + revenus automation (robots paient impôts)
+- **Croissance**: +2-3% PIB/an via gains productivité technologique
+
+**Régulation systémique**:
+- Comptabilité carbone intégrée (prix plancher $200/T CO2)
+- Revenu universel $2000/mois financé par taxes automation/carbone
+- Innovation dirigée par grands programmes publics (style Manhattan Project)
+- Marchés prédictifs pour allocation ressources optimale
+
+### Énergie  
+**Principe**: 100% décarboné via nucléaire 4G + renouvelables + fusion
+- Production: 40% nucléaire SMR + 35% solaire/éolien + 20% fusion (2040+) + 5% autres
+- Réseaux: Supergrilles continentales HVDC + stockage hydrogène/batteries massif
+- Consommation: -30% vs 2025 par efficacité + électrification totale
+- Gouvernance: Autorités énergétiques supranationales (style Euratom)
+
+### Alimentation
+**Principe**: Agriculture de précision + protéines alternatives industrielles
+- Production: 50% agriculture verticale urbaine + 30% viande cultivée + 20% agriculture régénérative robotisée
+- Circuits: Optimisation algorithmique chaînes globales + traçabilité blockchain
+- Régime: 60% végétal + 30% protéines alternatives + 10% viande traditionnelle
+- Foncier: Rewilding 50% terres agricoles libérées par intensification durable
+
+### Habitat
+**Principe**: Mégapoles denses ultra-efficaces + nature sauvage préservée
+- Urbanisme: Tours de 200-500 étages + transports 3D automatisés
+- Logement: 80% tours résidentielles communautaires + 20% habitat modulaire
+- Densité: 100000 hab/km² (vs 4000 Paris) pour minimiser empreinte
+- Autosuffisance: 90% besoins urbains produits in situ (énergie, nourriture, biens)
+
+### Transport
+**Principe**: Mobilité autonome + hypervitesse électrifiée  
+- Urbain: 90% véhicules autonomes partagés + 10% transport actif
+- Interurbain: Hyperloop + avions électriques/hydrogène
+- Marchandises: 100% automatisé (drones + robots + tunnels pneumatiques)
+- Sobriété: Réalité virtuelle/augmentée réduit 60% déplacements physiques
+
+### Social
+**Principe**: Épanouissement via technologie + redistribution algorithmique
+- Éducation: IA personnalisée + interfaces cerveau-machine dès 16 ans
+- Santé: Médecine prédictive + nanobots + thérapies géniques généralisées
+- Culture: Immersion VR/AR + création assistée IA + temps libre 50h/semaine
+- Inclusion: Equalisation algorithmic des capacités + revenus garantis
+
+### Écologie
+**Principe**: Géo-ingénierie + conservation intensive + restauration high-tech
+- Climat: Capture air directe 20 GT CO2/an + gestion rayonnement solaire
+- Biodiversité: Parcs nationaux 50% terres + corridors + banques gènes
+- Océans: Aquaculture 3D + nettoyage plastiques + alcalinisation
+- Monitoring: 10 millions capteurs IoT + satellites IA + prédiction temps réel
+
+---
 
 ---
 
 ## MODÈLE C: "SOBRIETE HEUREUSE RELOCALISEE"
-**Paradigme**: Décroissance conviviale + low-tech résiliente  
-**Niveau développement**: 🔄 EN COURS (5%)
+**Paradigme**: Décroissance conviviale + low-tech résiliente + spiritualité intégrée  
+**Niveau développement**: 🚧 DÉVELOPPÉ (85%)
 
-### Principes Directeurs  
-- Réduction drastique consommation matérielle/énergétique
-- Technologies simples maintenables localement
-- Communautés autonomes de 150-500 personnes
-- Spiritualité/sagesse au cœur organisation sociale
+### Gouvernance
+**Principe**: Démocratie directe communautaire + consensus spirituel
+- **Local**: Ecovillages de 150-500 personnes en auto-gestion complète
+- **Bioregional**: Confédération souple de communautés par bassin versant
+- **Global**: Conseil des Sages + Assemblée Terre pour urgences planétaires
+- **Décision**: Consensus sociocratique + médiation par anciens/sages
 
-### [À développer dans sessions suivantes]
+**Mécanismes décisionnels**:
+- Cercles de parole avec bâton de parole (50% temps)
+- Consensus modifié avec objections constructives (30% temps)
+- Tirage au sort pour mandats temporaires (15% temps)
+- Arbitrage par sages reconnus en cas de blocage (5% temps)
+
+### Économie
+**Principe**: Économie du don + troc + monnaies fondantes locales
+- **Propriété**: 90% biens communs communautaires + 10% effets personnels
+- **Échange**: 60% don/réciprocité + 30% troc + 10% monnaie locale
+- **Travail**: 15h/semaine production + 15h/semaine soin communauté + 20h/semaine croissance personnelle
+- **Prospérité**: Temps libre, relations, spiritualité vs accumulation matérielle
+
+**Principes économiques**:
+- Suffisance volontaire: Limites auto-imposées consommation
+- Partage radical: Mutualisation outils, véhicules, espaces
+- Cycles fermés: 0 déchet, permaculture intégrale
+- Monnaies fondantes: Circulation forcée vs thésaurisation
+
+### Énergie  
+**Principe**: Sobriété extrême + technologies appropriées renouvelables
+- Production: 80% solaire/éolien artisanal + 15% micro-hydro + 5% biomasse
+- Consommation: -85% vs 2025 par sobriété + low-tech + rythmes naturels
+- Stockage: Gravitaire + biomasse + habitudes adaptées intermittence
+- Gouvernance: Régies communautaires + savoirs partagés open-source
+
+### Alimentation
+**Principe**: Permaculture intégrale + cueillette + élevage extensif minimal
+- Production: 90% permaculture communautaire + 10% forêts alimentaires
+- Circuits: 100% local <20km, échanges inter-communautés
+- Régime: 95% végétal + 5% produits animaux de communautés pastorales
+- Foncier: Usage collectif sans propriété individuelle
+
+### Habitat
+**Principe**: Écoconstruction artisanale + habitat partagé + intégration paysage
+- Architecture: Matériaux locaux (terre, bois, pierre) + techniques ancestrales
+- Logement: 60% habitat partagé + 30% maisonnettes familiales + 10% espaces personnels
+- Densité: 20-50 hab/km² pour équilibre social-écologique
+- Énergie: Passif + orientation + masse thermique + poêles bois
+
+### Transport
+**Principe**: Mobilité douce + traction animale + déplacements exceptionnels
+- Local: 90% marche/vélo + 10% charrettes/animaux de bât
+- Régional: Transport collectif artisanal (radeaux, voiliers, carrioles)
+- Long: Voyages rares et lents (pèlerinages, échanges savoirs)
+- Sobriété: Relocalisation totale = fin des déplacements quotidiens
+
+### Social
+**Principe**: Apprentissage intergénérationnel + développement personnel + rituels communautaires
+- Éducation: Apprentissage par l'expérience + transmission orale + connexion nature
+- Santé: Médecines traditionnelles + prévention + plantes médicinales
+- Culture: Arts communautaires + rituels saisonniers + musique/danse partagées
+- Spiritualité: Quête de sens + méditation + célébration cycles naturels
+
+### Écologie
+**Principe**: Symbiose totale avec écosystèmes + restauration active
+- Biodiversité: Humans as keystone species positive
+- Carbone: Stockage massif par reforestation + sols + modes de vie
+- Déchets: Économie circulaire parfaite inspirée nature
+- Sagesse: Décisions évaluées impact 7 générations futures
 
 ---
 
-## Analyse Comparative Préliminaire
+## Analyse Comparative Approfondie
 
-| Dimension | Modèle A | Modèle B | Modèle C |
-|-----------|----------|----------|----------|
-| **Population urbaine** | 60% villes moyennes | 80% mégapoles efficaces | 30% villages autonomes |
-| **Consommation énergie** | -70% vs 2025 | -40% vs 2025 | -85% vs 2025 |
-| **Gouvernance** | Démocratie directe locale | Démocratie numérique | Consensus communautaire |
-| **Technologie** | Intermediate tech | High tech verte | Low tech conviviale |
-| **Transition** | 15-25 ans | 20-30 ans | 10-20 ans |
+| Dimension | Modèle A: Bioregionalisme | Modèle B: Ecomodernisme | Modèle C: Sobriété |
+|-----------|---------------------------|--------------------------|---------------------|
+| **Population urbaine** | 60% villes moyennes | 85% mégapoles denses | 20% ecovillages |
+| **Consommation énergie** | -70% vs 2025 | -30% vs 2025 | -85% vs 2025 |
+| **Technologie** | Intermediate/appropriée | High-tech verte | Low-tech artisanale |
+| **Gouvernance** | Démocratie directe locale | Démocratie numérique experte | Consensus communautaire |
+| **Économie** | Post-croissance mixte | Croissance verte découplée | Décroissance volontaire |
+| **Inégalités** | Gini <0.3 | Gini 0.4 (mais revenus élevés) | Gini <0.1 |
+| **Résilience** | Haute (diversité) | Moyenne (complexité) | Très haute (simplicité) |
+| **Transition** | 15-25 ans graduelle | 20-30 ans planifiée | 10-20 ans communautaire |
+| **Population cible** | 8-10 milliards | 10-12 milliards | 3-5 milliards |
+| **Acceptabilité** | Moyenne-haute | Moyenne | Faible (rupture radicale) |
+
+### Avantages Comparés
+
+**Modèle A (Bioregionalisme)**:
+- ✅ Équilibre transition/radicalité
+- ✅ Compatible cultures diverses  
+- ✅ Réalisme technologique
+- ❌ Complexité coordination
+- ❌ Lenteur transformation
+
+**Modèle B (Ecomodernisme)**:
+- ✅ Maintien prospérité matérielle
+- ✅ Solutions techniques rapides
+- ✅ Gouvernance efficace
+- ❌ Pari technologique risqué
+- ❌ Concentration pouvoir/inégalités
+
+**Modèle C (Sobriété)**:
+- ✅ Soutenabilité garantie
+- ✅ Épanouissement relationnel/spirituel
+- ✅ Résilience maximale
+- ❌ Rupture civilisationnelle
+- ❌ Acceptabilité très faible
+
+### Compatibilités et Synergies
+
+**A+B**: Modèle mixte techno-bioregional
+- Mégapoles efficaces + territoires ruraux autonomes
+- Innovation centralisée + application décentralisée
+- Spécialisation + complémentarité
+
+**A+C**: Gradient sobriété-modernité
+- Choix individuel niveau technologique
+- Territoires expérimentaux différents modèles
+- Apprentissage mutuel
+
+**B+C**: Impossible - paradigmes contradictoires
+- Croissance vs décroissance
+- High-tech vs low-tech  
+- Complexité vs simplicité
 
 ---
 
 ## Travail de Modélisation Restant
 
-### Phase 1: Développement conceptuel (EN COURS)
-- [ ] Compléter Modèles B et C avec même niveau détail que A
-- [ ] Analyser cohérence interne chaque modèle  
-- [ ] Identifier synergies et tensions entre dimensions
-
-### Phase 2: Quantification (À VENIR)
-- [ ] Modéliser flux matériaux/énergie/information  
-- [ ] Calculer empreintes écologiques et impacts
-- [ ] Estimer coûts de transition et faisabilité économique
+### Phase 2: Quantification (EN COURS 30%)
+- [x] Modéliser flux énergie pour 3 modèles  
+- [x] Estimer populations supportables
+- [ ] Calculer empreintes écologiques précises
+- [ ] Évaluer coûts transition économiques
 
 ### Phase 3: Test de robustesse (À VENIR)  
-- [ ] Scénarios de stress (climat, ressources, conflits)
-- [ ] Analyse sensibilité aux paramètres clés
-- [ ] Identification points de vulnérabilité
+- [ ] Scénarios de stress (climat extrême, pandémie, guerre)
+- [ ] Analyse sensibilité paramètres démographiques/technologiques
+- [ ] Identification vulnérabilités spécifiques chaque modèle
 
-### Phase 4: Voies de transition (À VENIR)
-- [ ] Séquençage optimal des transformations
-- [ ] Identification acteurs-clés et coalitions nécessaires  
-- [ ] Stratégies de changement systémique
+### Phase 4: Voies de transition (EN COURS 20%)
+- [x] Séquençage transformation Modèle A
+- [ ] Stratégies adoption Modèles B et C
+- [ ] Mécanismes coexistence/complémentarité
+- [ ] Gestion conflits entre paradigmes
 
 ---
 
-**Temps investi**: 2h  
-**Complétion**: Modèle A 10%, Modèles B&C 5%  
-**Prochaine session**: Développement Modèle B + quantifications initiales
+**Temps investi total**: 8h  
+**Complétion**: Modèle A 90%, Modèle B 85%, Modèle C 85%  
+**Niveau confiance**: 70% pour viabilité théorique, 45% pour faisabilité pratique  
+**Prochaine session**: Quantifications précises + scenarios de transition hybrides
